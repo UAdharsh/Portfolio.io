@@ -481,8 +481,8 @@ body{
 }
 .about-second-line{
     opacity: .8;
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 23px;
+    font-weight: 600;
 }
 .about-main{
     display: flex;
