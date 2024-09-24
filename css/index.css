@@ -483,6 +483,7 @@ body{
     opacity: .8;
     font-size: 18px;
     font-weight: 200;
+    display: block;
 }
 .about-main{
     display: flex;
