@@ -441,7 +441,7 @@ body{
     display: flex;
     flex-direction:column;
     align-items: center;
-    color: rgb(41, 39, 39);
+    color: rgb(0, 0, 0);
     justify-content: center;
     height: auto;
     width: 100%;
