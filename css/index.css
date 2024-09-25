@@ -389,7 +389,7 @@ body{
     transform: scale(1.1);
 }
 #breaker{
-    height: 100vh;
+    height: 200%;
     width: 200%;
     background-color: #ffffff;
     opacity: 1;
