@@ -1,54 +1,70 @@
-This is my portfolio website with a pre-template 
-Willy Wonka - Personal Template.
-Introduction
-Willy Wonka is a Completely responsive template made entirely with HTML , CSS and Js. It has a creative, minimal, and clean design. It’s suitable for any startup business, companies, agencies, and freelancers which need a professional way to showcase their projects and services.
-Features:
+# Portfolio Website - Willy Wonka Personal Template
 
-Fully Responsive
-Retina Ready
-6 color Variations
-5 Breakers Design
-4 Templates Design
-Compatible with Major Browers
-Compatible With Any Mobile.
-Easy to customise
-W3C Validated - HTML Error Free
-Gsap Animations
-PAID VERSION INCLUDE:
-PHP Mailer
-Working Contact Form with AJAX
-File-Structure:
+## Introduction
+This repository hosts my portfolio website, which was created by customizing one of the pre-made templates from the Willy Wonka - Personal Template. The Willy Wonka template is a completely responsive design made with HTML, CSS, and JavaScript. It features a creative, minimal, and clean design, making it suitable for startups, companies, agencies, and freelancers who want a professional way to showcase their projects and services.
 
-This is a Responsive Layout
-<DIV> tag is used as container
-Each section is commented at just top and bottom of it
-Use recent version of any browser for better result.
-Tested in IE 11, Firefox, Chrome , Safari and Opera
+## Features
+- **Fully Responsive**
+- **Retina Ready**
+- **6 Color Variations**
+- **5 Breakers Design**
+- **4 Templates Design**
+- **Compatible with Major Browsers**
+- **Compatible with Any Mobile Device**
+- **Easy to Customize**
+- **W3C Validated - HTML Error-Free**
+- **GSAP Animations**
 
-To change the Fav Icon,Pick any variation of html template and open with any editor. Top of the page, short cut icon link has been given for fav icon. Here you change the fav icon name and place corresponding icon in the "images" folder. As well as, do the update of web site title and meta description for SEO point of view.
-favicon
-CSS - Modification
-To change the images that are in css just add the image in the images folder and then change the name of background-image in CSS.
-favicon
-How to add Custom CSS files
-To add custom css files like custom-breakers just add another link of css stylesheet in the head section of HTML as shown Below:
-favicon
-How To Change Images in HTML
-To change the images that are in html just add the image in the images folder and then change the value of img src in HTML.
-favicon
-How To Change Link Address
-To change links address go to index.html file and change the url of the link as shown below:
+### Paid Version Includes:
+- PHP Mailer
+- Working Contact Form with AJAX
 
-GET MORE FREE TEMPLATES
-Click here to get more free templates made by us: FREE TEMPLATES
+## File Structure
+This is a responsive layout:
+- `<div>` tags are used as containers.
+- Each section is clearly commented at the top and bottom.
+- Use the latest version of any browser for the best results.
+- Tested in IE 11, Firefox, Chrome, Safari, and Opera.
 
+### How to Modify:
+#### Change Favicon:
+1. Open the HTML template in any editor.
+2. At the top of the page, locate the shortcut icon link.
+3. Replace the favicon name with your desired icon and place it in the `images` folder.
+4. Update the website title and meta description for SEO purposes.
 
+#### Modify Images in CSS:
+1. Add the new image to the `images` folder.
+2. Update the `background-image` property in the CSS file with the new image name.
 
-You are all set now !!!
-Credits:
+#### Add Custom CSS Files:
+1. Add a link to your custom CSS stylesheet in the `<head>` section of the HTML file, as shown below:
+   ```html
+   <link rel="stylesheet" href="path-to-your-custom.css">
+   ```
 
-Pexels
-Icon8
-Unsplash
-Google fonts
-Greensock
+#### Change Images in HTML:
+1. Add the new image to the `images` folder.
+2. Update the `src` attribute of the `<img>` tag in the HTML file with the new image name.
+
+#### Update Link Addresses:
+1. Open the `index.html` file.
+2. Modify the `href` or `src` attributes with the desired URLs.
+
+## Free Templates
+Looking for more templates? Click [here](https://www.templatemonster.com/website-templates/wink-multipurpose-portfolio-template-free-website-template-112017.html) to access the source template used for this project.
+
+## Credits
+- **Pexels** for stock images
+- **Icon8** for icons
+- **Unsplash** for images
+- **Google Fonts** for typography
+- **GreenSock Animation Platform (GSAP)** for animations
+
+## Hosting
+This project is hosted on GitHub Pages.
+
+---
+
+You are all set to customize and use this template for your portfolio!
+
